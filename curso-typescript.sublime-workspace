@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b",
+				"bodyParser"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"c",
+				"contain"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text-t",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"te",
+				"text-decoration-line"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"jus",
+				"justify-all"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"log",
+				"logueo"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"n",
+				"numero"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ind",
+				"indexH5"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"j",
+				"justify-all"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tes",
+				"text-transform"
+			],
+			[
+				"bienv",
+				"bienvenidos"
+			],
+			[
+				"animate",
+				"animated"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"BA",
+				"break-after"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bang",
+				"background"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Bo",
+				"BoardView"
+			],
+			[
+				"v",
+				"videos"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 187,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/josefbanguera/github/Curso-TypeScript"
+	],
+	"file_history":
+	[
+		"/home/josefbanguera/github/Curso-UDEMY-NodeJs-Angular/api-restful-favoritos/index.js",
+		"/home/josefbanguera/github/Curso-UDEMY-NodeJs-Angular/api-restful-favoritos/package.json",
+		"/home/josefbanguera/github/Curso-UDEMY-NodeJs-Angular/calculadora.js",
+		"/home/josefbanguera/github/Curso-UDEMY-NodeJs-Angular/README.md",
+		"/home/josefbanguera/proyectos/Pag-Boostrap/index1.html",
+		"/home/josefbanguera/proyectos/Pag-Boostrap/style.css",
+		"/home/josefbanguera/proyectos/Pag-Boostrap/consultas.html",
+		"/home/josefbanguera/proyectos/Pag-Boostrap/mision.html",
+		"/home/josefbanguera/proyectos/Pag-Boostrap/vision.html",
+		"/home/josefbanguera/proyectos/Pag-Boostrap/productos.html",
+		"/home/josefbanguera/proyectos/PAGINA/enlaces.css",
+		"/home/josefbanguera/proyectos/PAGINA/index.html",
+		"/home/josefbanguera/proyectos/PAGINA/vision.html",
+		"/home/josefbanguera/proyectos/PAGINA/productos.html",
+		"/home/josefbanguera/proyectos/PAGINA/mision.html",
+		"/home/josefbanguera/proyectos/PAGINA/consultas.html",
+		"/home/josefbanguera/proyectos/PAGINA/links.css",
+		"/home/josefbanguera/proyectos/PAGINA/style.css",
+		"/home/josefbanguera/proyectos/PAGINA/form1.css",
+		"/home/josefbanguera/proyectos/PAGINA/form.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/formulario.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/styleH5.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/indexH5.html",
+		"/home/josefbanguera/proyectos/PAGINA/correos.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/image/fb.png",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/image/bebe1.jpg",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/mainH5.js",
+		"/home/josefbanguera/myProyect/src/app/app.component.ts",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/responsive.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/sss/sss.js",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/sss/sss.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/enviar.php",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/tabla.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/slyder.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/secciones.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/correos.css",
+		"/home/josefbanguera/proyectos/curso-html5-responsive/alto.js",
+		"/home/josefbanguera/proyectos/cursoJava/style2.css",
+		"/home/josefbanguera/proyectos/cursoJava/index2.html",
+		"/home/josefbanguera/proyectos/cursoJava/main2.js",
+		"/home/josefbanguera/proyectos/cursoJava/style.css",
+		"/home/josefbanguera/proyectos/cursoJava/index.html",
+		"/home/josefbanguera/proyectos/cursoJava/main.js",
+		"/home/josefbanguera/proyectos/htmlcssjs/style.css",
+		"/home/josefbanguera/proyectos/htmlcssjs/index2.html",
+		"/home/josefbanguera/proyectos/htmlcssjs/main.js",
+		"/home/josefbanguera/proyectos/htmlcssjs/code.js",
+		"/home/josefbanguera/proyectos/htmlcssjs/INDEX3333333.html",
+		"/home/josefbanguera/proyectos/htmlcssjs/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-typescript.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
