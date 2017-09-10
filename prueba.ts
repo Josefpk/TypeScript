@@ -37,3 +37,21 @@ if (a===7){
 }
 
 console.log("FUERA DEL IF: "+a+ " - "+ b);
+
+// FUNCIONES Y TIPADO DE LAS MISMAS
+
+function devuelveNumero(num:number){
+	return num;
+}
+
+function devuelveString(texto:string):number{
+	if ( texto == "hola") {
+		var num = 30;
+	}else{
+		var num = 100;
+	}
+	return num;
+}
+
+alert(devuelveNumero(25));
+alert(devuelveString("hola"));
