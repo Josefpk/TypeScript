@@ -24,6 +24,8 @@ etiqueta.innerHTML = nombre+" - "+edad;
 
 VAR: define una variable local o blobal indeendientemente donde se utilice*/
 
+
+//DIFERENCIA ENTRE VAR Y LET
 var a = 7;
 var b = 2;
 
