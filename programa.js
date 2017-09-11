@@ -8,6 +8,19 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+function arranque(lanzar) {
+    return function (target) {
+        target.prototype.lanzamiento = function () {
+            alert(lanzar);
+        };
+    };
+}
 var Programa = /** @class */ (function () {
     function Programa() {
     }
@@ -23,8 +36,13 @@ var Programa = /** @class */ (function () {
     Programa.prototype.setVersion = function (version) {
         this.version = version;
     };
+    Programa = __decorate([
+        arranque('Lanzamiento de curso')
+    ], Programa);
     return Programa;
 }());
+var programa = new Programa();
+programa.lanzamiento();
 var EditorrVideo = /** @class */ (function (_super) {
     __extends(EditorrVideo, _super);
     function EditorrVideo() {

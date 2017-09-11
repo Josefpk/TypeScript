@@ -1,3 +1,13 @@
+function arranque(lanzar: string){
+	return function(target: Function){
+		target.prototype.lanzamiento = function():void {
+			alert(lanzar);
+		}
+	}
+}
+
+@arranque('Lanzamiento de curso')
+
 class Programa{
 	public nombre: string;
 	public version: number;
@@ -18,6 +28,9 @@ class Programa{
 		this.version = version;
 	}
 }
+
+var programa = new Programa();
+programa.lanzamiento();
 
 class EditorrVideo extends Programa{
 	public timeline:number;
@@ -66,3 +79,4 @@ function guardar(){
 	(<HTMLInputElement>document.getElementById("nombre")).value = "";
 
 } 
+
