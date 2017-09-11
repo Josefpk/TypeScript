@@ -40,3 +40,29 @@ editor.setVersion(8);
 editor.setTimeLine(4000);
 
 console.log(editor.getAllData());
+
+
+// LOGICA DEL FORMULARIO
+
+var programas = [];
+
+function guardar(){
+	var nombre = (<HTMLInputElement>document.getElementById("nombre")).value.toString();
+
+	var programa = new Programa();
+	programa.setNombre(nombre);
+	programa.setVersion(1);
+
+	programas.push(programa);
+
+	var list = "";
+	for (var i = 0; i < programas.length; i++) {
+		list = list+"<li>"+programas[i].getNombre()+"</li>";
+	}
+
+	var listado = <HTMLElement> document.getElementById("listado");
+	listado.innerHTML = list;
+
+	(<HTMLInputElement>document.getElementById("nombre")).value = "";
+
+} 
