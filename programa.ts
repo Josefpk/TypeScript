@@ -1,3 +1,24 @@
+//MODULOS
+//para utilizar las clases fuera de los MODULES se utiliza las palabras reservadas export dentro del modulo e import fuera del mismo.
+
+
+module Tienda {
+	export class Ropa{
+		constructor(public titulo:string){
+			alert(titulo);
+		}
+	}
+	export class Informatica{
+		constructor(public titulo:string){
+			alert('Tienda de tecnologia: '+titulo);
+		}
+	}
+}
+
+import Informatica = Tienda.Informatica;
+let cargar_informatica = new Informatica('SuperTienda');
+
+
 function arranque(lanzar: string){
 	return function(target: Function){
 		target.prototype.lanzamiento = function():void {
