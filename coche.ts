@@ -1,4 +1,9 @@
-class Coche{
+interface CocheBase{
+	getModelo():string;
+	getVelocidad():number;
+}
+
+class Coche implements CocheBase{
 	public color: string;
 	public modelo: string;
 	public veloocidad: number;
@@ -18,7 +23,7 @@ class Coche{
 		
 	}
 
-	public getModelo(){
+	public getModelo():string{
 		return this.modelo;
 
 	}
@@ -44,7 +49,7 @@ class Coche{
 	public frenar(){
 		this.veloocidad--;
 	}
-	public getVelocidad(){
+	public getVelocidad():number{
 		return this.veloocidad;
 
 	}
